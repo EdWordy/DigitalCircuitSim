@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 935303a2a503a75418f6e853a92353aa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GelatinMonoTTF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: be0957d2002e1c644ae14719219bad44, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
