@@ -1,4 +1,4 @@
-# DigitalCircuitSim
+# Digital Circuit Sim
 A Digital Circuit Simulator built on Unity and written in C#.
 
 ## Features
