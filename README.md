@@ -11,4 +11,4 @@ There still a ton left to do
 
 ## Preview
 
-![Alt text](/img/screenshot01.jpg)
+![Alt text](/imgs/screenshot01.jpg)
