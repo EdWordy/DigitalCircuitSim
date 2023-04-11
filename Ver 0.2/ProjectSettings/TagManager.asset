@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Objects
+  - UI
+  - Map
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Case (Lower)
+    uniqueID: 4022666877
+    locked: 0
+  - name: Circuits
+    uniqueID: 1755549845
+    locked: 0
+  - name: Pin
+    uniqueID: 2243486373
+    locked: 0
+  - name: Chips
+    uniqueID: 457862387
+    locked: 0
+  - name: Solder
+    uniqueID: 1531692299
+    locked: 0
