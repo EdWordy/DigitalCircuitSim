@@ -8,3 +8,7 @@ A Digital Circuit Simulator built on Unity and written in C#.
 
 ## TODO
 There still a ton left to do
+
+## Preview
+
+![Alt text](/img/screenshot01.jpg)
